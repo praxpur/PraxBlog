@@ -1,0 +1,10 @@
+{
+  "description": "Automates end-to-end testing of online multimedia training platforms by verifying video playback and navigation flows with detailed logging and error handling.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
